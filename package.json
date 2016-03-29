@@ -1,0 +1,22 @@
+{
+  "name": "hellophaser",
+  "version": "1.0.0",
+  "description": "Hola mon phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergipineda/HelloPhaser.git"
+  },
+  "author": "spineda <spineda1994@gmail.com> (sergipineda.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergipineda/HelloPhaser/issues"
+  },
+  "homepage": "https://github.com/sergipineda/HelloPhaser#readme",
+  "dependencies": {
+    "phaser": "^2.4.6"
+  }
+}
